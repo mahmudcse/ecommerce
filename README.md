@@ -1,4 +1,6 @@
 # Ecommerce by Mahmudul Hasan #
+Used languages
+*HTML *CSS (BOOTSTRAP) *PHP (CODEIGNITER) *MYSQL *JAVASCRIPT (JQUERY)
 
 The project was developed commercially for a client and is on live now on https://www.siliconbasket.com/. It was the biggest project I developed myself from scratch.
 
